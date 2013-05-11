@@ -1,0 +1,90 @@
+body {
+background-color: #F2F2F2;
+background-image: url('../images/analysis_bg.png');
+background-repeat: repeat-x;
+margin: 6px;
+padding: 0;
+}
+
+#wrapper {
+margin: 0 auto;
+width: 960px;
+
+}
+
+h2 {
+margin-left: 30px;
+font-family: tahoma;
+color: #4791BF;
+}
+
+p {
+color: #333;
+font-size: 15px;
+font-family: 'Signika', sans-serif;
+}
+
+#about {
+font-size: 18px;
+border: 1px solid black;
+background-color: white;
+}
+
+.label {
+color: #4791BF;
+font-family: tahoma;
+}
+
+li {
+list-style: none;
+}
+
+#intent {
+border: 1px solid black;
+background-color: white;
+width: 560px;
+margin-top: 6px;
+}
+
+#intent p {
+padding: 8px 16px;
+}
+
+#target_audience {
+border: 1px solid black;
+background-color: white;
+float: right;
+width: 390px;
+margin-top: -445px;
+}
+
+#target_audience p{
+padding: 8px 16px;
+}
+
+.note {
+border-top: 1px solid black;
+background-color: #E3F4FF;
+}
+
+#competitor_analysis {
+border: 1px solid black;
+background-color: white;
+width: 560px;
+margin-top: 4px;
+}
+
+#competitor_analysis p {
+padding: 8px 16px;
+}
+
+#competitor_analysis li {
+margin-top: 10px;
+}
+
+h3 {
+color: #7A7A7A;
+font-family: 'Signika', sans-serif;
+margin-left: 60px;
+text-decoration: underline;
+}
