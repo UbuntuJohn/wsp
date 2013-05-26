@@ -1,0 +1,38 @@
+html {
+background-color: #693;
+}
+
+body {
+font-family: verdana, arial, sans-serif;
+font-size: 10px;
+line-height: 18px;
+}
+
+#wrapper {
+margin: 0 auto;
+width: 960px;
+}
+
+a:link {
+color: #693;
+}
+
+a:hover {
+color: #000;
+text-decoration:underline;
+}
+
+h1 {
+font-size: 30px;
+font-family: georgia;
+}
+
+h2 {
+font-size: 24px;
+font-family: georgia;
+}
+
+h3 {
+font-size: 20px;
+font-family: georgia;
+}
