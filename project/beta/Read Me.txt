@@ -1,0 +1,2 @@
+Live Site: http://ubuntujohn.github.io/wsp/project/beta/
+gh-pages: https://github.com/UbuntuJohn/wsp/tree/gh-pages/project/beta
